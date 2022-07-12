@@ -202,3 +202,6 @@ class GLSHet(WLS):
         #note results is the wrapper, results._results is the results instance
         results._results.results_residual_regression = res_resid
         return results
+    
+    
+    test
